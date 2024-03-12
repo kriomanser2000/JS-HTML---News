@@ -1,0 +1,13 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont
+{
+    max-width: 600px;
+    margin: auto;
+}
+.item
+{
+    margin-bottom: 10px;
+}
